@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="insert_data">Insert Book</string>
+    <string name="sale">Sale</string>
+    <string name="product_name">Product Name</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="supplier_name">Supplier Name</string>
+    <string name="supplier_email">Supplier Email</string>
+    <string name="supplier_phone_number">Supplier Phone Number</string>
+    <string name="increase">increase</string>
+    <string name="decrease">decrease</string>
+    <string name="import_image">import image</string>
+    <string name="start_add_book">Start Add Books</string>
+    <string name="emptyQuantity">Sorry Quantity is 0</string>
+    <string name="noBooks">Item has been sold</string>
+    <string name="noBoooksQuantity">No pruduct in stock</string>
+    <string name="canNotUpate">it can not update</string>
+    <string name="bookName">History</string>
+    <string name="supplier"> Tom</string>
+    <string name="supplierEmail">kkk@gmail.com</string>
+    <string name="supplierPhone">00960504433</string>
+    <string name="deleteAll">Delete All Books</string>
+    <string name="book_image">BOOK IMAGE</string>
+    <string name="supplier_nameTEXT">SUPPLIER NAME</string>
+    <string name="supplier_emailTEXT">SUPPLIER EMAIL</string>
+    <string name="supplier_phoneTEXT">SUPPLIER PHONE</string>
+    <string name="priceTEXT">PRICE</string>
+    <string name="quantityTEXT">QUANTITY</string>
+    <string name="ADD_BOOK">Add Book</string>
+    <string name="EDIT_BOOK">Edit Book Information</string>
+    <string name="Require">Require Name</string>
+    <string name="Require1">Require Price </string>
+    <string name="Require2">Require Quantity </string>
+    <string name="Require3"> Require Image </string>
+    <string name="insertSuccessful"> Insert Successful </string>
+    <string name="insertFailed"> Insert Failed </string>
+    <string name="updateSuccessful">  Update Successful</string>
+    <string name="updateFailed"> Update Failed</string>
+    <string name="Save_All">SAVE</string>
+    <string name="change"> unsaved change</string>
+    <string name="descared">discard</string>
+    <string name="editing"> Editing</string>
+    <string name="deleteItem">Delete Item</string>
+    <string name="delete"> Delete </string>
+    <string name="cancel"> Cancel</string>
+    <string name="deletebook"> Delete Successful</string>
+    <string name="deletebook1"> Delete Failed</string>
+    <string name="DeleteInsert"> DELETE</string>
+
+
+</resources>
